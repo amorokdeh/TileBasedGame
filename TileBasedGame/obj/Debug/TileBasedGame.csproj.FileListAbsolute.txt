@@ -1,0 +1,62 @@
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Background.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Effects\Explosion.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Enemies\Dude_Monster_Walk_6.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Enemies\Owlet_Monster_Walk_6.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Items\Coin.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Items\Power.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\LICENSE.txt
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\PlayerShip\player.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Projectiles\Bullet.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\libfreetype-6.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\libpng16-16.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\SDL2.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\SDL2_image.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\SDL2_mixer.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\SDL2_ttf.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\beat.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Coin.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Death.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\explod_1.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\explod_2.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\game_over.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\high.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Jump.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\lasergun.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Level1 Music.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Level2 Music.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Level3 Music.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\MainMenu Music.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\medium.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Menu buttons.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Menu click.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Power.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\scratch.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\shooting.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\sound.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\zlib1.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\font\Adequate-ExtraLight.ttf
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\font\aerial.ttf
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\font\automati.ttf
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\font\lazy.ttf
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level1.json
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\TileBasedGame.exe.config
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\TileBasedGame.exe
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\TileBasedGame.pdb
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\SDL2-CS.dll
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.csproj.AssemblyReference.cache
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.csproj.CopyComplete
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.exe
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\obj\Debug\TileBasedGame.pdb
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\reload.wav
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\animation\enemyAnimation.json
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\animation\playerAnimation.json
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level3.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level2.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level1.png
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level2.json
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\image\Maps\Level3.json
+C:\Users\amrok\Documents\GitHub\gpp2022_yalla\game 3\TileBasedGame\TileBasedGame\bin\Debug\sound\Win.wav

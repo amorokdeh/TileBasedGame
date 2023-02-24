@@ -1,0 +1,22 @@
+{
+  "Idle": {
+    "Frames": [ 32, 64, 96, 128],
+    "Duration": 0.15
+  },
+  "Run": {
+    "Frames": [ 0, 32, 64, 96, 128, 160 ],
+    "Duration": 0.34
+  },
+  "Duck": {
+    "Frames": [ 0, 32, 64, 96, 128, 160 ],
+    "Duration": 0.18
+  },
+  "Jump": {
+    "Frames": [ 0, 160 ],
+    "Duration": 0.5
+  },
+  "Stand": {
+    "Frames": [ 96 ],
+    "Duration": 0.3
+  }
+}
